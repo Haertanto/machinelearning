@@ -1,5 +1,5 @@
 # Belajar Dasar Machine Learning 
-## Daftar Istilah
+## [Daftar Istilah](https://github.com/Haertanto/machinelearning/blob/main/Daftar%20Istilah.md)
 ## 1. Pengenalan Data
 1.1. Pengenalan Machine Learning 
 
