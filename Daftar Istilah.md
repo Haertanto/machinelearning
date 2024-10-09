@@ -88,4 +88,23 @@ API analisis data yang berorientasi pada kolom. Banyak framework machine learnin
 Variabel model yang dilatih oleh sistem machine learning. Sebagai contoh: weight/bobot adalah parameter yang nilainya dipelajari secara bertahap oleh sistem machine learning.
 ## Propagasi balik
 Algoritma untuk melakukan penurunan gradien pada jaringan saraf tiruan. Pertama, nilai keluaran dari setiap node dihitung dalam sebuah forward pass. Kemudian, turunan parsial dari eror/kesalahan yang terkait dengan setiap parameter dihitung dalam hitungan mundur melalui grafik.
-
+## Reinforcement Learning
+Algoritma yang belajar menggunakan sistem reward dan pinalti. Algoritma Reinforcement Learning belajar agar terus mendapatkan reward dan menghindari penalti. 
+## Reward
+Dalam reinforcement learning, reward adalah hasil numerik dari mengambil tindakan dalam suatu keadaan seperti yang didefinisikan oleh environment. Reward diberikan saat agent berhasil menyelesaikan tantangan.
+## Scikit learn
+Platform machine learning open-source yang populer. Lihat www.scikit-learn.org.
+## SVM
+Algoritma training yang bertujuan untuk memaksimalkan margin antara pola pelatihan dan batas keputusan (decision boundary). 
+## Tensorflow
+Platform machine learning berskala besar dan terdistribusi. Istilah ini juga merujuk pada layer API dasar yang mendukung komputasi umum pada grafik aliran data.
+## Test set
+Bagian dari dataset yang digunakan untuk menguji sebuah model setelah model melalui pemeriksaan awal oleh validation set.
+## Training set
+Bagian dari dataset yang digunakan untuk melatih model.
+## Underfitting
+Model machine learning memiliki kemampuan prediksi yang buruk karena model tersebut belum menangkap kompleksitas data pelatihan.
+## Unsupervised learning
+Model machine learning yang belajar dan menemukan pola dalam sekumpulan data tanpa label.
+## Validation set
+Bagian dari dataset (berbeda dari training set) yang digunakan sebagai validasi.
